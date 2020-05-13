@@ -6,7 +6,7 @@ Professor da Disciplina: Giuliano Bertoti
 
  
 
-Aluno: nome e ra
+Aluno: Lucas Campioni Rodrigues Porto RA: 1460281823029
 
  
 
