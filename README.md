@@ -45,7 +45,7 @@ Com a nova ideia, já podemos enquadrá-lo no problema:
  
  Com a opção de pagamento pelo celular, existirão inúmeras formas de pagamento. (A chance da transação não ser aceita será muito mais díficil)
  
- Analisando o link abaixo citado na 2ª quinzena de maio (https://exame.com/tecnologia/app-brasileiro-elimina-filas-em-restaurantes-padarias-e-ate-em-baladas/) podemos dar brindes para usuários que fizerem a reserva pelo nosso aplicativo, e para quem fizer o pagamento por ele, um beneficío ainda maior poderá ser dado. (Beneficios como sobremesa, bebida ou acompanhamentos grátis).
+ Analisando o link abaixo citado na 2ª quinzena de maio (https://exame.com/tecnologia/app-brasileiro-elimina-filas-em-restaurantes-padarias-e-ate-em-baladas/) podemos dar brindes para usuários que fizerem a reserva pelo nosso aplicativo, e, para quem fizer o pagamento por ele, um beneficío ainda maior poderá ser dado. (Beneficios como sobremesa, bebida ou acompanhamentos grátis).
 
 
 # 1ª Quinzena de julho
