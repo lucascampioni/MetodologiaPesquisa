@@ -39,7 +39,7 @@ Tive a ideia de fazer um interface que aceite pagamentos dentro do próprio apli
  
 # 2ª Quinzena de junho
 
-Com a nova ideia, já podemos enquadrá-lo no problema:
+Com a nova ideia, já podemos enquadrá-la no problema:
  - 1: Problema
  Ficar esperando em filas para entrar em restaurantes e pagamento não ser aceito pelo cartão.
  
