@@ -21,10 +21,15 @@ Analisando o link da revista Exame (citado nas referências) podemos dar brindes
 # Referências
 
 Aplicativo Ifood; Disponível em: https://www.ifood.com/ Acesso em 07/05/2020.
+
 Site TheFork; Disponível em: https://www.thefork.com.br/ Acesso em 07/05/2020.
+
 Gestão de fila em restaurantes - Frest; Disponível em: https://www.frest.com.br/gestao-de-fila-em-restaurantes-como-diminuir-o-tempo-de-espera/ Acesso em 21/05/2020.
+
 Fila de espera no restaurante - Casa Magalhães; Disponível em: https://www.casamagalhaes.com.br/blog/bares-e-restaurantes/fila-de-espera-no-restaurante/ Acesso em 04/06/2020.
+
 Aplicativo Get in;  Disponível em: https://restaurante.getinapp.com.br/ Acesso em 04/06/2020.
+
 App Brasileiro elimina filas em restaurantes, padarias e até em baladas - Revista Exame: https://exame.com/tecnologia/app-brasileiro-elimina-filas-em-restaurantes-padarias-e-ate-em-baladas/ Acesso em 18/06/2020.
 
 
